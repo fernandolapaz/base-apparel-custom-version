@@ -252,7 +252,6 @@ body {
         grid-area: hero;
     }
 
-    .hero picture,
     .hero img {
         max-height: none;
         height: 100%;
